@@ -5,7 +5,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sahruldotid&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 </p>
 
-## 🔭 I’m currently Open To Work at this fields
+## 🔭 Open To Work at this fields
 
 - Security Research
 - Penetration Testing
@@ -18,6 +18,7 @@
 
 ## 📫 Reach Me
 
+- LinkedIn: https://www.linkedin.com/in/syahrul-akbar-rohmani/
 - Twitter: https://twitter.com/sahruldotid
 
 
