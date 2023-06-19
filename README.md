@@ -5,16 +5,16 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sahruldotid&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 </p>
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently Open To Work at this fields
 
-- Bug Hunting
-- Web Application Development
+- Security Research
+- Penetration Testing
 
 ## 🌱 I’m currently learning
 
 - Reverse Engineering
 - Binary Exploitation
-- CTF???????
+- Cryptography
 
 ## 📫 Reach Me
 
